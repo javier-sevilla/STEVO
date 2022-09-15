@@ -10,3 +10,13 @@ In this version could be found:
 The visualization toold could be tested on the ADASilk tool of the SILKNOW project
 
 https://ada.silknow.eu
+
+# REFERENCED ONTOLOGIES
+In this ontology is referenced the graphic module of VISO ontology 
+https://github.com/viso-ontology/viso-ontology
+
+The Ontology of coordinates reference systems from IGNF
+http://data.ign.fr/def/ignf/20190213.en.htm
+
+The TIME Ontology from W3C
+https://www.w3.org/TR/owl-time/
