@@ -20,3 +20,5 @@ http://data.ign.fr/def/ignf/20190213.en.htm
 
 The TIME Ontology from W3C
 https://www.w3.org/TR/owl-time/
+
+Inside the "doc" folder could be found information (Spanish / English) about the STEVO ontology.
